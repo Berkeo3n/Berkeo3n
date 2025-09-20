@@ -1,5 +1,5 @@
-## Hi there 👋
-
+-Im a freshman at Bilkent University 
+-Im learning Java
 <!--
 **Berkeo3n/Berkeo3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
