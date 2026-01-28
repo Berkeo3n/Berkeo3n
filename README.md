@@ -1,2 +1,2 @@
--Im a freshman at Bilkent University and Im learning Java-
+-Im a freshman at Bilkent University and I'm learning Java-
 
